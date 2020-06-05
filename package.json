@@ -1,0 +1,12 @@
+{
+  "name": "csauto-tradeup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yRodrigo2219/csauto-tradeup.git",
+  "author": "<rodrigo2219dg@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
