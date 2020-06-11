@@ -1,0 +1,15 @@
+{
+    "name": "",
+    "link": "",
+    "minWear": 0,
+    "maxWear": 1,
+    "stat-track":{
+        "FN":{
+            "price": 0.0,
+            "volume": 0
+        }
+    },
+    "normal":{
+
+    }
+}
